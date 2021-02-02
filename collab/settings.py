@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'allauth.account',
     'allauth.socialaccount',
     'home',
-    'calndars',
+    'calendars',
     'profiles',
     'work_admin',
 ]
